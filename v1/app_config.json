@@ -1,24 +1,24 @@
 {
 	"cover":[
 		{
-			"name":"Mr. Funny Call Me",
-			"pkg":"mr.bean.call",
-			"link":"https://play.google.com/store/apps/details?id=mr.bean.call&hl=None",
-			"isSpecial":0,
-			"cover_img":"/mr.bean.call/cover.png",
-			"app_icon":"/mr.bean.call/app_icon.png",
-			"app_desc":"You need to call your idol mr. funny call, we are here today to give you this application that allows to you have a very funny time by being with mr. funny fake call, are you ready to simulate a mr. funny call me fake video call, yes you can prank your friend and tell them that you have an incoming call from mr. funny call me, and have fun together, and they also can install this app and having a simulation of an incoming call from mr. funny."
-		}
-	],
-	"app_list":[
-		{
 			"name":"Funny Bob Yellow video Call",
 			"pkg":"com.video_callspongebo.yellow_chat",
 			"link":"https://play.google.com/store/apps/details?id=com.video_callspongebo.yellow_chat&hl=None",
 			"isSpecial":0,
-			"cover_img":"",
+			"cover_img":"/com.video_callspongebo.yellow_chat/cover.png",
 			"app_icon":"/com.video_callspongebo.yellow_chat/app_icon.png",
 			"app_desc":"Spongeyellow is Try now to Receive a video call and chat from bob Fans yellow us-imposts for free."
+		}
+	],
+	"app_list":[
+		{
+			"name":"Mr. Funny Call Me",
+			"pkg":"mr.bean.call",
+			"link":"https://play.google.com/store/apps/details?id=mr.bean.call&hl=None",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"/mr.bean.call/app_icon.png",
+			"app_desc":"You need to call your idol mr. funny call, we are here today to give you this application that allows to you have a very funny time by being with mr. funny fake call, are you ready to simulate a mr. funny call me fake video call, yes you can prank your friend and tell them that you have an incoming call from mr. funny call me, and have fun together, and they also can install this app and having a simulation of an incoming call from mr. funny."
 		},
 		{
 			"name":"Santa Claus call me",
