@@ -1,51 +1,42 @@
 {
 	"cover":[
 		{
-			"name":"test1",
-			"pkg":"com.palmax.test",
-			"link":"https://www.baidu.com",
+			"name":"Mr. Funny Call Me",
+			"pkg":"mr.bean.call",
+			"link":"https://play.google.com/store/apps/details?id=mr.bean.call&hl=None",
 			"isSpecial":0,
-			"cover_img":"http://bpic.588ku.com/element_origin_min_pic/16/07/04/17577a32ae4b66a.jpg%21r650",
-			"app_icon":"http://bpic.588ku.com/element_origin_min_pic/17/06/13/5c5a1442f0ec72e59829ee10d891f224.jpg%21r650",
-			"app_desc":"i am the introduction of the productl am the"
-		},
-		{
-			"name":"test2",
-			"pkg":"com.palmax.test",
-			"link":"https://www.baidu.com",
-			"isSpecial":0,
-			"cover_img":"http://bpic.588ku.com/element_origin_min_pic/16/07/04/17577a32ae4b66a.jpg%21r650",
-			"app_icon":"http://bpic.588ku.com/element_origin_min_pic/17/06/13/5c5a1442f0ec72e59829ee10d891f224.jpg%21r650",
-			"app_desc":"i am the introduction of the productl am the"
+			"cover_img":"/mr.bean.call/cover.png",
+			"app_icon":"/mr.bean.call/app_icon.png",
+			"app_desc":"You need to call your idol mr. funny call, we are here today to give you this application that allows to you have a very funny time by being with mr. funny fake call, are you ready to simulate a mr. funny call me fake video call, yes you can prank your friend and tell them that you have an incoming call from mr. funny call me, and have fun together, and they also can install this app and having a simulation of an incoming call from mr. funny."
 		}
 	],
 	"app_list":[
 		{
-			"name":"test1",
-			"pkg":"com.palmax.test",
-			"link":"https://www.baidu.com",
+			"name":"Funny Bob Yellow video Call",
+			"pkg":"com.video_callspongebo.yellow_chat",
+			"link":"https://play.google.com/store/apps/details?id=com.video_callspongebo.yellow_chat&hl=None",
 			"isSpecial":0,
 			"cover_img":"",
-			"app_icon":"http://bpic.588ku.com/element_origin_min_pic/17/06/13/5c5a1442f0ec72e59829ee10d891f224.jpg%21r650",
-			"app_desc":"i am the introduction of the productl am the"
+			"app_icon":"/com.video_callspongebo.yellow_chat/app_icon.png",
+			"app_desc":"Spongeyellow is Try now to Receive a video call and chat from bob Fans yellow us-imposts for free."
 		},
 		{
-			"name":"test1",
-			"pkg":"com.palmax.test",
-			"link":"https://www.baidu.com",
+			"name":"Santa Claus call me",
+			"pkg":"com.fakecall.santa",
+			"link":"https://play.google.com/store/apps/details?id=com.fakecall.santa&hl=None",
 			"isSpecial":0,
 			"cover_img":"",
-			"app_icon":"http://bpic.588ku.com/element_origin_min_pic/17/06/13/5c5a1442f0ec72e59829ee10d891f224.jpg%21r650",
-			"app_desc":"i am the introduction of the productl am the"
+			"app_icon":"/com.fakecall.santa/app_icon.png",
+			"app_desc":"Let your friends have a funny moment . Let your friends and your family tell you what the hell name of this app is fantastic and superb !!With quick click make your dream call, just start talking And enjoy the best phone pranks."
 		},
 		{
-			"name":"test1",
-			"pkg":"com.palmax.test",
-			"link":"https://www.baidu.com",
+			"name":"Cracked screen",
+			"pkg":"com.david_wallpapers.cracked_screen",
+			"link":"https://play.google.com/store/apps/details?id=com.david_wallpapers.cracked_screen&hl=None",
 			"isSpecial":0,
 			"cover_img":"",
-			"app_icon":"http://bpic.588ku.com/element_origin_min_pic/17/06/13/5c5a1442f0ec72e59829ee10d891f224.jpg%21r650",
-			"app_desc":"i am the introduction of the productl am the"
+			"app_icon":"/com.david_wallpapers.cracked_screen/app_icon.png",
+			"app_desc":"Just only one click, and the most realistic wallpapers about theme of shattered screen will appears on your smartphone. Do not delay any longer, the biggest base with wallpapers with cracked screen in the largest possible 4K resolution is prepared specifically for you!"
 		}
 	]
 }
