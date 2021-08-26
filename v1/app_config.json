@@ -1,0 +1,51 @@
+{
+	"cover":[
+		{
+			"name":"test1",
+			"pkg":"com.palmax.test",
+			"link":"https://www.baidu.com",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"",
+			"app_desc":"i am the introduction of the productl am the"
+		},
+		{
+			"name":"test2",
+			"pkg":"com.palmax.test",
+			"link":"https://www.baidu.com",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"",
+			"app_desc":"i am the introduction of the productl am the"
+		}
+	],
+	"app_list":[
+		{
+			"name":"test1",
+			"pkg":"com.palmax.test",
+			"link":"https://www.baidu.com",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"",
+			"app_desc":"i am the introduction of the productl am the"
+		},
+		{
+			"name":"test1",
+			"pkg":"com.palmax.test",
+			"link":"https://www.baidu.com",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"",
+			"app_desc":"i am the introduction of the productl am the"
+		},
+		{
+			"name":"test1",
+			"pkg":"com.palmax.test",
+			"link":"https://www.baidu.com",
+			"isSpecial":0,
+			"cover_img":"",
+			"app_icon":"",
+			"app_desc":"i am the introduction of the productl am the"
+		}
+	]
+}
