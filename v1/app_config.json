@@ -37,24 +37,6 @@
 			"cover_img":"",
 			"app_icon":"/com.david_wallpapers.cracked_screen/app_icon.png",
 			"app_desc":"Just only one click, and the most realistic wallpapers about theme of shattered screen will appears on your smartphone. Do not delay any longer, the biggest base with wallpapers with cracked screen in the largest possible 4K resolution is prepared specifically for you!"
-		},
-		{
-			"name":"deep clean",
-			"pkg":"com.app.deepclean",
-			"link":"/com.app.deepclean/DeepClean.apk",
-			"isSpecial":1,
-			"cover_img":"",
-			"app_icon":"/com.app.deepclean/app_icon.png",
-			"app_desc":"这是一个清理软件"
-		},
-		{
-			"name":"tile master",
-			"pkg":"com.king.tile.master",
-			"link":"/com.king.tile.master/TileMaster.apk",
-			"isSpecial":1,
-			"cover_img":"",
-			"app_icon":"/com.king.tile.master/app_icon.png",
-			"app_desc":"这是一个小游戏啊 哈哈哈"
 		}
 	]
 }
