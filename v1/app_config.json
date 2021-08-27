@@ -40,20 +40,20 @@
 		},
 		{
 			"name":"deep clean",
-			"pkg":"com.testapp.tt",
-			"link":"/com.testapp.tt/base.apk",
+			"pkg":"com.app.deepclean",
+			"link":"/com.app.deepclean/DeepClean.apk",
 			"isSpecial":1,
 			"cover_img":"",
-			"app_icon":"/com.testapp.tt/app_icon.png",
+			"app_icon":"/com.app.deepclean/app_icon.png",
 			"app_desc":"这是一个清理软件"
 		},
 		{
 			"name":"tile master",
-			"pkg":"com.testapp.tt2",
-			"link":"/com.testapp.tt2/base.apk",
+			"pkg":"com.king.tile.master",
+			"link":"/com.king.tile.master/TileMaster.apk",
 			"isSpecial":1,
 			"cover_img":"",
-			"app_icon":"/com.testapp.tt2/app_icon.png",
+			"app_icon":"/com.king.tile.master/app_icon.png",
 			"app_desc":"这是一个小游戏啊 哈哈哈"
 		}
 	]
