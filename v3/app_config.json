@@ -1,42 +1,46 @@
 {
 	"cover":[
 		{
-			"name":"Funny Bob Yellow video Call",
-			"pkg":"com.video_callspongebo.yellow_chat",
-			"link":"https://play.google.com/store/apps/details?id=com.video_callspongebo.yellow_chat&hl=None",
-			"isSpecial":0,
-			"cover_img":"/com.video_callspongebo.yellow_chat/cover.png",
-			"app_icon":"/com.video_callspongebo.yellow_chat/app_icon.png",
-			"app_desc":"Spongeyellow is Try now to Receive a video call and chat from bob Fans yellow us-imposts for free."
+			"name":"Round Edge wallpaper",
+			"app_id":344,
+			"pkg":"com.app.round.edge.wallpaper.lighting.bordo.alrededor",
+			"link":"/com.app.round.edge.wallpaper.lighting.bordo.alrededor/RoundEdedgelitghtingWallpapers.apk",
+			"isSpecial":1,
+			"cover_img":"/com.app.round.edge.wallpaper.lighting.bordo.alrededor/cover.png",
+			"app_icon":"/com.app.round.edge.wallpaper.lighting.bordo.alrededor/app_icon.png",
+			"app_desc":"Change you're same as old or boring wallpaper into amazing LED lights."
 		}
 	],
 	"app_list":[
 		{
-			"name":"Mr. Funny Call Me",
-			"pkg":"mr.bean.call",
-			"link":"https://play.google.com/store/apps/details?id=mr.bean.call&hl=None",
-			"isSpecial":0,
+			"name":"Photo Collage Maker",
+			"app_id":342,
+			"pkg":"com.app.photo.collage.maker.free.frame.pic.editor",
+			"link":"/com.app.photo.collage.maker.free.frame.pic.editor/Collage-Maker.apk",
+			"isSpecial":1,
 			"cover_img":"",
-			"app_icon":"/mr.bean.call/app_icon.png",
-			"app_desc":"You need to call your idol mr. funny call, we are here today to give you this application that allows to you have a very funny time by being with mr. funny fake call, are you ready to simulate a mr. funny call me fake video call, yes you can prank your friend and tell them that you have an incoming call from mr. funny call me, and have fun together, and they also can install this app and having a simulation of an incoming call from mr. funny."
+			"app_icon":"/com.app.photo.collage.maker.free.frame.pic.editor/app_icon.png",
+			"app_desc":"Collage Maker & Collage Editor."
 		},
 		{
-			"name":"Santa Claus call me",
-			"pkg":"com.fakecall.santa",
-			"link":"https://play.google.com/store/apps/details?id=com.fakecall.santa&hl=None",
-			"isSpecial":0,
+			"name":"Passport Photo Editor",
+			"app_id":341,
+			"pkg":"com.app.passport.photo.editor.size.fotos.id",
+			"link":"/com.app.passport.photo.editor.size.fotos.id/PassportPhoto.apk",
+			"isSpecial":1,
 			"cover_img":"",
-			"app_icon":"/com.fakecall.santa/app_icon.png",
-			"app_desc":"Let your friends have a funny moment . Let your friends and your family tell you what the hell name of this app is fantastic and superb !!With quick click make your dream call, just start talking And enjoy the best phone pranks."
+			"app_icon":"/com.app.passport.photo.editor.size.fotos.id/app_icon.png",
+			"app_desc":"Passport Photo is a completely free ID photo maker app."
 		},
 		{
-			"name":"Cracked screen",
-			"pkg":"com.david_wallpapers.cracked_screen",
-			"link":"https://play.google.com/store/apps/details?id=com.david_wallpapers.cracked_screen&hl=None",
-			"isSpecial":0,
+			"name":"Cut Paste Photo",
+			"app_id":343,
+			"pkg":"com.app.cut.paste.photo.seamles.deitor.chop.fofoshop",
+			"link":"/com.app.cut.paste.photo.seamles.deitor.chop.fofoshop/CutPastePhoto.apk",
+			"isSpecial":1,
 			"cover_img":"",
-			"app_icon":"/com.david_wallpapers.cracked_screen/app_icon.png",
-			"app_desc":"Just only one click, and the most realistic wallpapers about theme of shattered screen will appears on your smartphone. Do not delay any longer, the biggest base with wallpapers with cracked screen in the largest possible 4K resolution is prepared specifically for you!"
+			"app_icon":"/com.app.cut.paste.photo.seamles.deitor.chop.fofoshop/app_icon.png",
+			"app_desc":"Make any photo into a funny one. "
 		}
 	]
 }
